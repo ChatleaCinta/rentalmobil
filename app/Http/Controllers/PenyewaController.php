@@ -90,7 +90,7 @@ public function tampil(){
         $penyewa[] = array(
             'id' => $d->id,
             'nama' => $d->nama,
-            'alamat' => $d->almaat,
+            'alamat' => $d->alamat,
             'telp' => $d->telp,
             'no_ktp' => $d->no_ktp,
             'foto' => $d->foto
